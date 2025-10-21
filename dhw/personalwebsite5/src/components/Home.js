@@ -14,7 +14,7 @@ function Home() {
   <div>
     <div><Navbar/></div>
     <div
-      className="card p-3 mb-4"
+      className="card p-4 mb-4"
       style={{
         backgroundColor: bgColor,
         display: "flex",
